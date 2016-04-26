@@ -1,0 +1,29 @@
+{
+	"name": "alchemy-cloud-v1",
+	"version": "0.0.1",
+	"description": "app to run Alchemy keyword extraction on a website url and create a word cloud",
+  	"repository": {},
+    	"private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"author": "IBM Corp.",
+	"contributors": [
+    	{
+      	"name": "Joe Kozhaya",
+      	"email": "kozhaya@us.ibm.com"
+    	}
+  	],
+  	"license": "Apache-2.0",
+	"dependencies": {
+		"body-parser": "*",
+		"extend": "*",
+		"request": "*",
+		"express": "4.13.x",
+		"cfenv": "1.0.x",
+		"watson-developer-cloud": "^1.0.5"
+	},
+	"engines": {
+		"node": "4.2.x"
+	} 
+}
