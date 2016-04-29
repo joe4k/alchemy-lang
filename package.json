@@ -1,7 +1,7 @@
 {
-	"name": "alchemy-cloud-v1",
+	"name": "alchemy-lang",
 	"version": "0.0.1",
-	"description": "app to run Alchemy keyword extraction on a website url and create a word cloud",
+	"description": "app to run Alchemy keyword extraction on a website url and return identified keywords",
   	"repository": {},
     	"private": true,
 	"scripts": {
