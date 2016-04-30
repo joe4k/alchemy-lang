@@ -15,14 +15,14 @@
     	}
   	],
   	"license": "Apache-2.0",
-	"dependencies": {
-		"body-parser": "*",
-		"extend": "*",
-		"request": "*",
-		"express": "4.13.x",
-		"cfenv": "1.0.x",
-		"watson-developer-cloud": "^1.0.5"
-	},
+ 	"dependencies": {
+    		"body-parser": "1.15.x",
+    		"cfenv": "1.0.x",
+    		"extend": "3.0.x",
+    		"request": "2.72.x",
+    		"express": "4.13.x",
+    		"watson-developer-cloud": "1.4.x"
+  	},
 	"engines": {
 		"node": "4.2.x"
 	} 
