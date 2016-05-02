@@ -1,4 +1,4 @@
-# alchemy-lang: [Node.js]: https://nodejs.org/en Code to run Alchemy Language Services
+# alchemy-lang: Node.js code to run Alchemy Language Services
 A starter app using Node.js to leverage IBM Watson's Alchemy Language services to extract keywords from an input URL and return JSON response.
 
 To run this code locally:
